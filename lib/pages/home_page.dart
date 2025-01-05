@@ -216,7 +216,7 @@ class CategoriesWidget extends StatelessWidget {
         ),
         const ProductDetailCard(
           typeProductDetailCard: TypeProductDetailCard.incomes,
-          pathToProductImage: 'assets/images/tv.png',
+          pathToProductImage: 'assets/images/electronics.png',
           amount: 3176254.01,
           productName: 'Electronics',
           currentSells: '2250',
